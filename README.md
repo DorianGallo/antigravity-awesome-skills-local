@@ -593,6 +593,20 @@ We officially thank the following contributors for their help in making this rep
 - [@gregkonush](https://github.com/gregkonush)
 - [@Karthikeya-Meesala](https://github.com/Karthikeya-Meesala)
 - [@sulavmgr456-byte](https://github.com/sulavmgr456-byte)
+- [@AnthonyFirth](https://github.com/AnthonyFirth)
+- [@dklymentiev](https://github.com/dklymentiev)
+- [@hogan-yuan](https://github.com/hogan-yuan)
+- [@iradoweck](https://github.com/iradoweck)
+- [@kavinduUdhara](https://github.com/kavinduUdhara)
+- [@konradbachowski](https://github.com/konradbachowski)
+- [@KyleMillion](https://github.com/KyleMillion)
+- [@liujuanjuan1984](https://github.com/liujuanjuan1984)
+- [@morsechimwai](https://github.com/morsechimwai)
+- [@ndesv21](https://github.com/ndesv21)
+- [@sahilaghara1911](https://github.com/sahilaghara1911)
+- [@SenSei2121](https://github.com/SenSei2121)
+- [@stefan-kp](https://github.com/stefan-kp)
+- [@therohitdas](https://github.com/therohitdas)
 
 ## Star History
 
