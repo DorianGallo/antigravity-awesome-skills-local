@@ -607,6 +607,20 @@ We officially thank the following contributors for their help in making this rep
 - [@SenSei2121](https://github.com/SenSei2121)
 - [@stefan-kp](https://github.com/stefan-kp)
 - [@therohitdas](https://github.com/therohitdas)
+- [@274326424](https://github.com/274326424)
+- [@2slides](https://github.com/2slides)
+- [@conspirafi](https://github.com/conspirafi)
+- [@FrancoStino](https://github.com/FrancoStino)
+- [@JularDepick](https://github.com/JularDepick)
+- [@kissmyabs32](https://github.com/kissmyabs32)
+- [@mishanefedov](https://github.com/mishanefedov)
+- [@PzocikErwin](https://github.com/PzocikErwin)
+- [@runapi-builder](https://github.com/runapi-builder)
+- [@sarveshtalele](https://github.com/sarveshtalele)
+- [@Suraj1235](https://github.com/Suraj1235)
+- [@valka465](https://github.com/valka465)
+- [@vipin-si](https://github.com/vipin-si)
+- [@yehudalevy-collab](https://github.com/yehudalevy-collab)
 
 ## Star History
 
