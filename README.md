@@ -704,6 +704,13 @@ We officially thank the following contributors for their help in making this rep
 - [@pranshuchittora](https://github.com/pranshuchittora)
 - [@rjvkn](https://github.com/rjvkn)
 - [@zillapi](https://github.com/zillapi)
+- [@alexprivalov](https://github.com/alexprivalov)
+- [@bekservice](https://github.com/bekservice)
+- [@cj-ant](https://github.com/cj-ant)
+- [@Ghost011118](https://github.com/Ghost011118)
+- [@SfImran](https://github.com/SfImran)
+- [@Whxuan0701](https://github.com/Whxuan0701)
+- [@xiehuan123](https://github.com/xiehuan123)
 
 ## Star History
 
