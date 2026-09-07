@@ -714,6 +714,16 @@ We officially thank the following contributors for their help in making this rep
 - [@Linji-x](https://github.com/Linji-x)
 - [@Prajeeth-12](https://github.com/Prajeeth-12)
 - [@rainmanjam](https://github.com/rainmanjam)
+- [@CahidArda](https://github.com/CahidArda)
+- [@chenli-yy](https://github.com/chenli-yy)
+- [@georgeatparallel](https://github.com/georgeatparallel)
+- [@glukicov](https://github.com/glukicov)
+- [@Junaid-PK](https://github.com/Junaid-PK)
+- [@liyangbing](https://github.com/liyangbing)
+- [@philip638](https://github.com/philip638)
+- [@Sketchjar](https://github.com/Sketchjar)
+- [@sunxiayi](https://github.com/sunxiayi)
+- [@xizhuomengcontin](https://github.com/xizhuomengcontin)
 
 ## Star History
 
